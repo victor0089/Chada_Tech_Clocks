@@ -6,8 +6,6 @@
 
 This submission combines all required clock logic into `main.cpp`, keeping each task in a clearly named function. The single application starts from a validated user-entered time, displays synchronized 12-hour and 24-hour clocks side by side, and allows additions of one hour, minute or second until the user chooses Exit.
 
-**Instructor-feedback improvement:** In an interactive console, the two clocks and menu now **redraw in-place** after each selection instead of continually scrolling and stacking duplicate clock displays. Windows uses native console cursor/clear APIs and macOS/Linux use ANSI terminal control codes. Redirected input/output continues to work with plain-text automated tests.
-
 ## Open in Visual Studio 2022
 
 1. Extract the complete ZIP to a normal folder.
