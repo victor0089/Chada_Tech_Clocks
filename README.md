@@ -2,7 +2,6 @@
 
 **Student:** Victor Israel  
 **Language:** C++17  
-**Source files:** Exactly **one** — `main.cpp`.
 
 This submission combines all required clock logic into `main.cpp`, keeping each task in a clearly named function. The single application starts from a validated user-entered time, displays synchronized 12-hour and 24-hour clocks side by side, and allows additions of one hour, minute or second until the user chooses Exit.
 
