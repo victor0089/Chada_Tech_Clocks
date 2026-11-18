@@ -1,4 +1,4 @@
-# SNHU CS 210 Project One — Chada Tech Clocks
+# SNHU CS 210 Project One - Chada Tech Clocks
 
 **Student:** Victor Israel  
 **Language:** C++17  
